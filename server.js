@@ -11,7 +11,7 @@ const app = express();
 // ✅ Allowed frontend domains
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://rainbow-fudge-7c37fb.netlify.app",
+  "https://dreamy-chaja-d7fbbc.netlify.app/",
   // also add this if you're using it
 ];
 
