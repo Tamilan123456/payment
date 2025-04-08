@@ -13,6 +13,7 @@ const allowedOrigins = [
   "http://localhost:5173",
   "https://rainbow-fudge-7c37fb.netlify.app",
   "https://dreamy-chaja-d7fbbc.netlify.app",
+  "https://tamilan-payment.netlify.app",
 ];
 
 app.use(
